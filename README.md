@@ -1,6 +1,7 @@
-# python_webscraping-docker
-- This project is python webscraping using beautifulsoup and requests pip packages 
-- it perform webscraping inside docker container.
+# Python webscraping with docker
+- This project is python webscraping using beautifulsoup.
+- It perform webscraping inside docker container.
+- It scrap all link url, image url from a given website and list them.
 
 ### Files Contains :
 - It contains two files :
